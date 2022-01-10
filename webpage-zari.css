@@ -1,6 +1,11 @@
 body{background-color:rgba(252, 145, 34, 0.66);}
 h2{font-size:25px;}
-p{font:15px;}
+h3{font-size: 22px;}
+h4{font-size: 20px}
+h5{font-size: 18px;}
+p{font-size:18px;}
+.url{font-size:9px}
+.sansyou{font-size: 10px}
 .zari-foto{height:200px;
   display: flex;
   align-items: center;
