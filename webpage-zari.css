@@ -1,0 +1,12 @@
+body{background-color:rgba(252, 145, 34, 0.66);}
+h2{font-size:25px;}
+p{font:15px;}
+.zari-foto{height:200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.idenshi{height:200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;}
