@@ -6,12 +6,12 @@ h5{font-size: 18px;}
 p{font-size:18px;}
 .url{font-size:9px}
 .sansyou{font-size: 10px}
-.zari-foto{height:200px;
+.zari-foto{height:400px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.idenshi{height:200px;
+.idenshi{height:400px;
   display: flex;
   align-items: center;
   justify-content: center;}
